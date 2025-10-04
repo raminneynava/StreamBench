@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StreamBench/StreamBench.csproj" />
+  <Project Path="TcpTestClient/TcpTestClient.csproj" />
+  <Project Path="TcpTestServer/TcpTestServer.csproj" />
+</Solution>
